@@ -7,7 +7,7 @@
 
 ### Before Run
 
-If you don't want to run in parallel, you can set *parallel* to *false* in the TestNGTestRunner file.
+If you don't want to run in parallel, you can set **parallel** to **false** in the **src/test/java/cucumberoptions/TestNGTestRunner.java** file.
 
 ### How to Run
 
