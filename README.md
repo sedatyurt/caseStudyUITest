@@ -2,7 +2,7 @@
 
 ### Requirements
 
-- JDK 17
+- JDK 16
 - Maven
 
 ### Before Run
