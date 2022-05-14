@@ -9,6 +9,10 @@
 
 If you don't want to run in parallel, you can set **parallel** to **false** in the **src/test/java/cucumberoptions/TestNGTestRunner.java** file.
 
+For Chrome `-DbrowserName=chrome`
+For Firefox `-DbrowserName=firefox`
+For Opera `-DbrowserName=opera`
+
 ### How to Run
 
 You can send the browser you want to run the tests with the **-DbrowserName** parameter. If you don't send parameters it will work with chrome browser.
